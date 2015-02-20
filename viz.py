@@ -1,6 +1,6 @@
-from bokeh.plotting import *
-from bokeh.objects import HoverTool, ColumnDataSource
-from bokeh.sampledata.les_mis import data
+#from bokeh.plotting import *
+#from bokeh.models import HoverTool, ColumnDataSource
+#from bokeh.sampledata.les_mis import data
 
 
 import pandas as pd
